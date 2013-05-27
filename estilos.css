@@ -1,0 +1,30 @@
+
+#navegador{  
+ padding : 3px 10px 5px 10px; 
+ border-top : 1px solid #cccccc; 
+ border-bottom : 1px solid #cccccc; 
+ style : float:center;
+ } 
+
+#cabecera{ 
+ height : 250px; 
+ width: 550px; 
+ text-align :center;
+ }  
+
+#contenedor {
+position:absolute;
+top: 50%;
+left: 50%;
+height:400px;
+width:600px;
+margin-top:-300px;
+margin-left:-500px; 
+}
+
+ A.enlacenav, A.enlacenav:VISITED, A.enlacenav:ACTIVE, A.enlacenav:FOCUS, A.enlacenav:LINK{ 
+ color: #494E6B; 
+ } 
+ A.enlacenav:HOVER{ 
+ color: #3F7DE3; 
+ }  

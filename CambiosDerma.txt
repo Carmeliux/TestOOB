@@ -1,0 +1,5 @@
+* En el menú utilizaría un azul más suave de fondo por default.
+* En la sección Productos escondería como submenú las Categorías, Cuidado del Cuerpo y los Tipos de Piel.
+* En la sección Acerca de Derma delimitaría el frame, pues al mover el scroll la información se traslapa.
+
+El resto del estilo me agrada, sobre todo las imagenes y los bordes.
